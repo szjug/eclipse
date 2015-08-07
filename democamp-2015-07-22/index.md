@@ -25,7 +25,11 @@ title: SZJUG => Eclipse SIG => DemoCamp 2015-7-22
 
 官方海报 | Official Poster :-)
 
+<!--
 ![](photos/mmexport1438085494061.jpg)
+-->
+<a href="photos/mmexport1438085494061.jpg">
+<img src="photos/mmexport1438085494061.jpg" width="250" height="300" /></a>
 
 Selfi
 
